@@ -2,9 +2,9 @@
 This repository documents the development of a web application in Database Programming subject, which designed to manage scholarship distribution for students within a faculty of Commerce and Accountancy. The project can serve for different user roles and ensure the system meets the specific needs of the users.
 
 ## Technology Stack
-- Framework: Django
-- Database: MySQL
-- Languages: Python, SQL
+- **Framework**: Django
+- **Database**: MySQL
+- **Languages**: Python, SQL
 
 ## Key Contributions
 ### Requirements Gathering
